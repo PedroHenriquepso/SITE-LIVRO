@@ -16,35 +16,19 @@ h1, h2, h3, p {
     margin: 15px 0px;
 }
 
-h1 { 
-    padding: 50px;
-    font-size: 60px;
-}
-
-h2 {
-    padding: 50px;
-    font-size: 40px;
-}
-
-h3 {
-    padding: 50px;
-    font-size: 35px;
-}
-
 p {
     width: 930px;
     margin: 15px auto 30px auto;
-    line-height: 35px;
-    font-size: 28px;
+    line-height: 28px;
 }
 
 img {
-    width: 500px;
+    width: 190px;
 }
 
 a {
     padding: 10px 30px;
-    font-size: 20px;
+    font-size: 14px;
     text-decoration: none;
     background-color: #49b970;
     color: white;
